@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Emiliano](github.com/eborghi10)!
+## Hi there 👋, I'm [Emiliano](https://github.com/eborghi10)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/e-borghiorue)
 
