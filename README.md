@@ -13,11 +13,11 @@
 #### Personal projects
 
 <p align="center">
-  <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
-    <img width="40%" height="40%" src="https://media.giphy.com/media/l2HT6L6MDUYUVLCvqz/giphy.gif">
-  </a>
   <a href="https://github.com/eborghi10/spot_quadruped_ros" target="_blank">
     <img width="40%" height="40%" src="https://media.giphy.com/media/fodJ2gBu8NuQujM8rJ/giphy.gif">
+  </a>
+  <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
+    <img width="40%" height="40%" src="https://i.imgur.com/gG4EsI0.jpg">
   </a>
   <a href="https://github.com/eborghi10/webots_manipulation" target="_blank">
     <img width="40%" height="40%" src="https://media.giphy.com/media/xH901NDQhEEd5Yjs9Z/giphy.gif">
