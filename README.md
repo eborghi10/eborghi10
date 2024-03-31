@@ -5,10 +5,10 @@
 #### About me
 
 - :book: Studied Electronics Engineering in the UTN in Haedo, Buenos Aires, Argentina
-- :computer: Working at [Ekumen](https://www.ekumenlabs.com/) as Senior Software Developer and Project Lead
-- :teacher: I teach Robotics at the UTN
-- :robot: My hobby is building robots (with [ROS](https://www.ros.org/)!)
-- :soccer: I play football as goalkeeper! (*soccer*)
+- :computer: Working at [Smart Machine](https://www.oxin.nz/) as Senior Robotics Engineer
+- :teacher: I taught Robotics at the UTN
+- :robot: My hobby is to learn how to make robots autonomous (control, navigation, localization, etc) 
+- :soccer: I play football as a goalkeeper!
 
 #### Personal projects
 
