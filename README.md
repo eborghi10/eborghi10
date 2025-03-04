@@ -61,6 +61,11 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/eborghi10/ColumbiaX-Robotics?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/eborghi10/ColumbiaX-Robotics?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/eborghi10/semantic_segmentation_transformers"><b>Fine-tuning and inference of Semantic Segmentation task with Transformers</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/eborghi10/semantic_segmentation_transformers?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/eborghi10/semantic_segmentation_transformers?style=flat-square&labelColor=343b41"/></td>
+    </tr>  
   </tbody>
 </table>
 
